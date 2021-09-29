@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Slap-a-tha-Bass
+- 👋 Hi, I’m Corey!
 - 👀 I’m interested in software development and throwing errors...sometimes computers.
-- 🌱 I’m currently learning TypeScript/React and Node.js/Express.js.
-- 💞️ I’m looking to collaborate on anything that can help gain more experience and meet new people in the industry.
-- 📫 Reach me @cdeloach16@gmail.com or on Twitter @Slap_a_tha_Bass.
+- 🌱 I’m currently learning TypeScript/React and Node.js/Express.js and passport authentication.
+- 💞️ I’m looking to gain more experience/knowledge and meet new people in the industry.
+- 📫 Reach me at cdeloach16@gmail.com or on Twitter @Slap_a_tha_Bass.
 
 
