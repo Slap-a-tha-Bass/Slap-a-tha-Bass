@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Corey!
 - 👀 I’m interested in biology, chess, and software.
-- 🌱 I'm a full-stack developer in Birmingham, AL.
-- 👌🏼 My preferred stack is Next.js and GraphCMS.
-- 🤷🏻‍♂️ A close second is Next.js, Prisma, Planetscale, and tRPC.
-- 🧠 Just started my masters degree in Data Science.
-- 📫 Reach me on Twitter @Slap_a_tha_Bass.
+- 🌱 I'm a frontend developer in Birmingham, AL.
+- 🧠 Working on masters degree in Data Analytics.
+- 📫 Reach me on IG @ slap_a_tha_bass.
