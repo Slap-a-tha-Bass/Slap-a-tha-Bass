@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Corey!
 - 👀 I’m interested in biology, chess, and software.
 - 🌱 I'm a frontend developer in Birmingham, AL.
-- 🧠 Working on masters degree in Data Analytics.
 - 📫 Reach me on IG @ slap_a_tha_bass.
