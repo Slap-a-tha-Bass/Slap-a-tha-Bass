@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Corey!
 - 👀 I’m interested in biology, chess, and software.
-- 🌱 I'm a frontend developer in Birmingham, AL.
-- 📫 Reach me on IG @ slap_a_tha_bass.
+- 🌱 I'm a frontend developer currently living in Birmingham, AL.
